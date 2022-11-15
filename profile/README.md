@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Please visit us on our website, [https://www.rocketscience.gg](https://www.rocketscience.gg)
+
 <!--
 
 **Here are some ideas to get you started:**
