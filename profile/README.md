@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Please visit us on our website, [https://www.rocketscience.gg](https://www.rocketscience.gg)
+Please visit us on our website, [https://rocketscience.gg](https://rocketscience.gg)
 
 <!--
 
