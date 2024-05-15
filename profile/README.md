@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://vitejs.dev/logo.svg" height="200">
+<img src="https://github.com/rocketsciencegg/.github/blob/main/profile/github-onepiece.png" height="200">
 </p>
 
 <h1 align="center">
