@@ -6,7 +6,7 @@
 Rocket Science Group
 </h1>
 <p align="center">
-The world's best co-dev studio.  Seriously. We promise.
+The world's best video game co-dev studio.  Seriously. We promise.
 <p>
 <div align="center">
   <a href="https://rocketscience.gg">Website</a> —
