@@ -6,8 +6,13 @@
 Rocket Science Group
 </h1>
 <p align="center">
-The world's best video game co-dev studio.  Seriously. We promise.
-<p>
+The world's best video game co-dev grou  Seriously. We promise.
+</p>
+
+<p align="center">
+Parent organization of <a href="https://www.atomictheory.gg">Atomic Theory</a>, <a href="https://www.terminalvelocity.gg">Terminal Velocity</a>, and <a href="">TBA</a>.
+</p>
+
 <div align="center">
   <a href="https://rocketscience.gg">Website</a> —
   <a href="https://www.x.com/rocketsciencegg">X / Twitter</a> —
