@@ -6,7 +6,7 @@
 Rocket Science Group
 </h1>
 <p align="center">
-The world's best video game co-dev grou  Seriously. We promise.
+The world's best video game co-dev group. Seriously. We promise.
 </p>
 
 <p align="center">
