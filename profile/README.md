@@ -14,10 +14,10 @@ Parent organization of <a href="https://www.atomictheory.gg">Atomic Theory</a>, 
 </p>
 
 <div align="center">
-  <a href="https://rocketscience.gg">Website</a> —
+  <a href="https://www.rocketscience.gg">Website</a> —
   <a href="https://www.x.com/rocketsciencegg">X / Twitter</a> —
   <a href="https://www.linkedin.com/company/rocketsciencegg">LinkedIn</a>
 </div>
 <h4 align="center">
-<a href="https://rocketscience.gg/careers"><i>Have what it takes? Join our squad!</i></a>
+<a href="https://www.rocketscience.gg/careers"><i>Have what it takes? Join our squad!</i></a>
 </h4>
