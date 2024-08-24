@@ -10,7 +10,7 @@ The world's best video game co-dev group. Seriously. We promise.
 </p>
 
 <p align="center">
-Parent organization of <a href="https://www.atomictheory.gg">Atomic Theory</a>, <a href="https://www.terminalvelocity.gg">Terminal Velocity</a>, and <a href="">TBA</a>.
+Parent organization of <a href="https://www.atomictheory.gg">Atomic Theory</a>, <a href="https://www.terminalvelocity.gg">Terminal Velocity</a>, and <a href="https://www.supercollider.gg">Super Collider</a>.
 </p>
 
 <div align="center">
