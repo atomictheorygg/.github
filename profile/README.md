@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/rocketsciencegg/.github/blob/main/profile/github-onepiece.png" height="140">
+<img src="https://github.com/rocketsciencegg/.github/blob/main/profile/github.png" height="140">
 </p>
 
 <h1 align="center">
