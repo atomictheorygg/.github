@@ -6,7 +6,7 @@
 Atomic Theory
 </h1>
 <p align="center">
-Hands down the best video game game dev team ever. EVER.
+Hands down the best video game co-dev team ever. EVER.
 </p>
 
 <div align="center">
